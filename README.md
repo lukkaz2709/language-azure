@@ -17,4 +17,6 @@ Após configurar e treinar modelos no Language Studio, pode facilmente integrá-
 ### 5 - Aproveite os exemplos e tutoriais prontos
 A Microsoft oferece diversos exemplos, guias passo-a-passo e conjuntos de dados de demonstração diretamente no Language Studio. Use-os para aprender rapidamente ou como base para os seus próprios projetos.
 
+# Na imagem abaixo temos um exemplo do Language Studio Azure!
 
+![](language-studio.png)
